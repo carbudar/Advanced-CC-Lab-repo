@@ -32,11 +32,7 @@ a:link {
   a:hover {
     color: darkorange;
   }
-a:active {
-    color: violet;
-  }
-  a:visited {
-    color: wheat;
+
   }
 
 
